@@ -12,6 +12,6 @@ baaba
 abba
 aa
 
-Строим граф для **ababa**
+Строим граф для **ababa** и **bbaa**
 
-
+![Бор](../imgs/bohr_1.png)
