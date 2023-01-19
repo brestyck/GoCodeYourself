@@ -6,12 +6,20 @@
 Проще говоря, дерево для строк.
 
 Возьмем слова:
-> ababa
-bbaa
-baaba
-abba
-aa
+`ababa`
+`bbaa`
+`baaba`
+`abba`
+`aa`
 
 Строим граф для **ababa** и **bbaa**
 
 ![Бор](../imgs/bohr_1.png)
+
+В этом дереве:
+Ребра - элементы строк (_буквы_) и переход от одного состояния к другому
+Вершины
+
+Вот еще красивая картинка для бора
+
+![Красивая картинка](https://media.geeksforgeeks.org/wp-content/uploads/20220828232752/Triedatastructure1.png)
